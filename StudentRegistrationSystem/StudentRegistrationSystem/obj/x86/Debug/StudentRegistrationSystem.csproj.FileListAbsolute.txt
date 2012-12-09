@@ -1,0 +1,12 @@
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\StudentRegistrationSystem.Form1.resources
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\StudentRegistrationSystem.Student_Details.resources
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\StudentRegistrationSystem.Student_Registration.resources
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\StudentRegistrationSystem.exe
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\StudentRegistrationSystem.pdb
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rukshan\Desktop\Desktop\interview Question\StudentRegistrationSystem\StudentRegistrationSystem\obj\x86\Debug\GenerateResource.write.1.tlog

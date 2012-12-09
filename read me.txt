@@ -1,0 +1,13 @@
+Name - P.H.R.A darshana
+
+
+Includes
+===========================
+Sourse file of the application
+Database backup file
+database script (tables , Stored Procedures)
+
+
+
+Database name - StudentMng
+Table name - Registration
